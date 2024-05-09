@@ -7,7 +7,8 @@ You first answer the questions to run the tools ![image](https://github.com/i-fo
 
 Then it goes through subfinder => it updates the resolvers to go to puredns => httpx then go or waybackurls or both then it looks for patterns so you can use them to feed them to the tools and then it runs the tools if you said yes, and  then it goes through nuclei for the parameters and for the site in general and to end everything it takes a nice screenshot of everysubdomain. You can also add nuclei templates to the scan at the start.
 
-in the end you have your files ready ![image](https://github.com/i-forgo-it/Automatic/assets/163911891/87d699e7-70d5-43c7-87da-be7b005cf8b2)
+in the end you have your files ready ![image](https://github.com/i-forgo-it/Automatic/assets/163911891/c928a745-910c-4ab1-826c-df520b3bd86c)
+
 
 # Small note 
 I wanted to make a script that automates some of my recon and after finishing why not share it on github :). Keep in mind this is a simple script and I am not a god so sorry if you get erros but you should not (i hope).
