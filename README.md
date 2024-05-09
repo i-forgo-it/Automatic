@@ -37,6 +37,11 @@ like in those screenshots \
 
 I also used a template for nuclei by https://github.com/projectdiscovery/nuclei-templates/issues/9253, if you don't download it and point the path to it, it won't be able to scan for redirects.
 
+#Next improvements
+
+i don't really like how it scans for xss,sqli because it goes through each url and that's too time consuming so i would to be able to delete the ones that are the same or that are not relevant which idk how i would do that but something along those lines and also a tool to look if a subdomain takeover is possible.
+
+THIS TOOL IS FOR ETHICAL HACKING ONLY I AM NOT RESPONSIBLE OF WHAT YOU DO WITH THIS TOOL!!
 
 
 
