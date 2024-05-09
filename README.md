@@ -21,13 +21,13 @@ Note, if you have an error it may because of the tools that are not updated or p
 git clone the script
 
 Then you need to change the path in the script of the hxn to your right browser and where is your httpx on your machine and the path to corsy.py if you have installed it.
-like in those screenshots n\
-![image](https://github.com/i-forgo-it/Automatic/assets/163911891/b9bcc606-8798-4c9d-b9ad-f97423909a0d) n\
-![image](https://github.com/i-forgo-it/Automatic/assets/163911891/13909b56-f452-42a1-8cae-919e0d22d0dd) n\
-![image](https://github.com/i-forgo-it/Automatic/assets/163911891/a87cc49c-b4d5-470e-ada2-05076a80bb86) n\
-![image](https://github.com/i-forgo-it/Automatic/assets/163911891/0786a9a8-c590-4794-a366-2ccfca88bd85) n\
-![image](https://github.com/i-forgo-it/Automatic/assets/163911891/f84987c6-9471-45a6-9a2b-3fad1ab3d047) n\
-![image](https://github.com/i-forgo-it/Automatic/assets/163911891/0b4d74fe-cec4-4e77-ad9b-91e0415166b7) n\
+like in those screenshots \
+![image](https://github.com/i-forgo-it/Automatic/assets/163911891/b9bcc606-8798-4c9d-b9ad-f97423909a0d) \
+![image](https://github.com/i-forgo-it/Automatic/assets/163911891/13909b56-f452-42a1-8cae-919e0d22d0dd) \
+![image](https://github.com/i-forgo-it/Automatic/assets/163911891/a87cc49c-b4d5-470e-ada2-05076a80bb86) \
+![image](https://github.com/i-forgo-it/Automatic/assets/163911891/0786a9a8-c590-4794-a366-2ccfca88bd85) \
+![image](https://github.com/i-forgo-it/Automatic/assets/163911891/f84987c6-9471-45a6-9a2b-3fad1ab3d047) \
+![image](https://github.com/i-forgo-it/Automatic/assets/163911891/0b4d74fe-cec4-4e77-ad9b-91e0415166b7) \
 
 
 
