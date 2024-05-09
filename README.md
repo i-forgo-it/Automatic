@@ -14,7 +14,7 @@ I will certainly be looking to improve this script in the future so if you guys 
 
 # how to use
 First you need to download all the tools that are used in the script nuclei,subfinder,httpx,gf,Haylxon,puredns,waybackurls or gau,(sqlmap,dalfox,corsy.py)those between brackets are optional.
-Note, if you have an error it may because of the tools that are not updated or propelly set up for example gf with the patters and stuff.
+Note, if you have an error it may because of the tools that are not updated or properly  set up for example gf with the patters and stuff.
 
 Download the script 
 
