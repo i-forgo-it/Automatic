@@ -1,4 +1,6 @@
 # Automatic
+!!! It is quite buggy and makes a lot of noise i personnally usually don't use the tools but only the beginning of the tool which scans for subdomains waybackurls...  !!!
+
 Automatic is a simple bash script made to automate usefull tools for recon and content discovery. It looks for redirects,LFi,sli,xss,nuclei templates and some recon tools and you can also set up a rate limit and a user agent to use when scanning. You can also set up a time limit so that if exceeds that time limit the nuclei scan goes to the next.
 
 # how it works 
